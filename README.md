@@ -5,7 +5,7 @@ This is my app store
 
 `carrotstore:` https://carrotstore.web.app
 
-`WebPage Git:` [https://carrotstore.web.app](https://kurotsmile.github.io/Carrot/)
+`WebPage Git:` https://kurotsmile.github.io/Carrot
 
 You can contact me via social networks and communication tools:
 
