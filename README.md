@@ -5,6 +5,8 @@ This is my app store
 
 `carrotstore:` https://carrotstore.web.app
 
+`WebPage Git:` [https://carrotstore.web.app](https://kurotsmile.github.io/Carrot/)
+
 You can contact me via social networks and communication tools:
 
 [![Build Status](https://img.shields.io/badge/Facebook-%231877F2.svg)](https://www.facebook.com/kurotsmile) 
