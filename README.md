@@ -7,6 +7,12 @@ This is my app store
 
 `WebPage Git:` https://kurotsmile.github.io/Carrot
 
+[
+  ![Donate with PayPal]
+  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+]
+(https://www.paypal.com/paypalme/kurotsmile)
+
 You can contact me via social networks and communication tools:
 
 [![Build Status](https://img.shields.io/badge/Facebook-%231877F2.svg)](https://www.facebook.com/kurotsmile) 
