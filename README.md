@@ -7,7 +7,7 @@ This is my app store
 
 `WebPage Git:` https://kurotsmile.github.io/Carrot
 
-`Itch:` [https://kurotsmile.github.io/Carrot](https://carrotstore.itch.io/)
+`Itch:` https://carrotstore.itch.io
 
 `Donation:` Please support me with a portion of the costs to maintain the server and services for everyone
 
