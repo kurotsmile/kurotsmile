@@ -4,7 +4,9 @@ I am developing applications that serve entertainment and work for everyone in t
 This is my app store
 
 `carrotstore:` https://carrotstore.web.app
+
 `WebPage Git:` https://kurotsmile.github.io/Carrot
+
 `Itch:` [https://kurotsmile.github.io/Carrot](https://carrotstore.itch.io/)
 
 `Donation:` Please support me with a portion of the costs to maintain the server and services for everyone
