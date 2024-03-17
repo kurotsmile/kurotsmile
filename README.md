@@ -48,4 +48,4 @@ Javascript, HTML, CSS, Unity3d, C++, C#, Java
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurotsmile&custom_title=CarrotApp&hide_border=true&theme=github&bg_color=ffffff&color=000000&line=5ced73)](https://carrotstore.web.app)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurotsmile&custom_title=CarrotApp&hide_border=true&theme=github&bg_color=ffffff&color=000000&line=5ced73&point=00ab41)](https://carrotstore.web.app)
