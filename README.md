@@ -5,6 +5,8 @@ This is my app store
 
 `carrotstore:` https://carrotstore.web.app
 
+`Rabbit Store:` https://kurotsmile.github.io/Rabbit/
+
 `WebPage Git:` https://kurotsmile.github.io/Carrot
 
 `Itch:` https://carrotstore.itch.io
