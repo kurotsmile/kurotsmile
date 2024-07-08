@@ -5,11 +5,13 @@ This is my app store
 
 `carrotstore:` https://carrotstore.web.app
 
-`Rabbit Store:` https://kurotsmile.github.io/Rabbit/
+`Rabbit Store:` https://kurotsmile.github.io/Rabbit
 
 `WebPage Git:` https://kurotsmile.github.io/Carrot
 
 `Itch:` https://carrotstore.itch.io
+
+`Music Store:` https://kurotsmile.github.io/Music-For-Life-Store
 
 `Donation:` Please support me with a portion of the costs to maintain the server and services for everyone
 
