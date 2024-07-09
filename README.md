@@ -31,15 +31,12 @@ Tôi cung cấp dịch vụ phát triển các ứng dụng và game Unity3D tr�
 I am developing applications that serve entertainment and work for everyone in the world
 This is my app store
 
-`carrotstore:` https://carrotstore.web.app
+| Store         | URL                                      | Store         | URL                                    |
+|---------------|------------------------------------------|---------------|----------------------------------------|
+| Carrot Store  | [carrotstore](https://carrotstore.web.app) | Rabbit Store  | [Rabbit Store](https://kurotsmile.github.io/Rabbit) |
+| WebPage Git   | [WebPage Git](https://kurotsmile.github.io/Carrot) | Itch          | [Itch](https://carrotstore.itch.io) |
+| Music Store   | [Music Store](https://kurotsmile.github.io/Music-For-Life-Store) |               |                                        |
 
-`Rabbit Store:` https://kurotsmile.github.io/Rabbit
-
-`WebPage Git:` https://kurotsmile.github.io/Carrot
-
-`Itch:` https://carrotstore.itch.io
-
-`Music Store:` https://kurotsmile.github.io/Music-For-Life-Store
 
 `Donation:` Please support me with a portion of the costs to maintain the server and services for everyone
 
