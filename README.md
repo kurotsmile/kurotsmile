@@ -1,28 +1,32 @@
 ### Hi there 👋 🥕🥕🥕🥕🥕🥕
 
-# Unity3D Application & Game Development Services
+# Unity3D Application and Game Development Services / Dịch vụ phát triển ứng dụng và game Unity3D
 
-[![English](https://img.shields.io/badge/language-English-blue)](README.md)
+<table>
+  <tr>
+    <td>
 
-## Overview
-I offer professional services in developing Unity3D applications and games across various platforms, as well as creating web apps and web games. I am capable of participating in large-scale projects and delivering high-quality results.
+### 🇺🇸 English
 
-### Contact
-- Email: tranthienthanh93@gmail.com
-- Email: tranrot93@gmail.com
+I offer development services for Unity3D applications and games across various platforms. Additionally, I can develop web apps and web games. I am available for participation in large projects. Feel free to contact me via email:
 
----
+- tranthienthanh93@gmail.com
+- tranrot93@gmail.com
 
-# Dịch Vụ Phát Triển Ứng Dụng & Game Unity3D
+    </td>
+    <td>
 
-[![Tiếng Việt](https://img.shields.io/badge/ngôn_ngữ-Tiếng_Việt-blue)](README-vi.md)
+### 🇻🇳 Tiếng Việt
 
-## Giới Thiệu
-Tôi cung cấp các dịch vụ chuyên nghiệp trong việc phát triển ứng dụng và game Unity3D trên nhiều nền tảng khác nhau, cũng như tạo các ứng dụng web và game web. Tôi có khả năng tham gia vào các dự án lớn và mang lại kết quả chất lượng cao.
+Tôi cung cấp dịch vụ phát triển các ứng dụng và game Unity3D trên nhiều nền tảng khác nhau. Ngoài ra, tôi có thể phát triển web app và web game. Tôi có thể tham gia các dự án lớn. Vui lòng liên hệ với tôi qua email:
 
-### Liên Hệ
-- Email: tranthienthanh93@gmail.com
-- Email: tranrot93@gmail.com
+- tranthienthanh93@gmail.com
+- tranrot93@gmail.com
+
+    </td>
+  </tr>
+</table>
+
 
 
 I am developing applications that serve entertainment and work for everyone in the world
