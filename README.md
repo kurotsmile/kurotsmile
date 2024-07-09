@@ -17,8 +17,8 @@ I offer development services for Unity3D applications and games across various p
 ### 🇻🇳 Tiếng Việt [![Tiếng Việt](https://img.shields.io/badge/ngôn_ngữ-Tiếng_Việt-blue)](README-vi.md)
 
 Tôi cung cấp dịch vụ phát triển các ứng dụng và game Unity3D trên nhiều nền tảng khác nhau. Ngoài ra, tôi có thể phát triển web app và web game. Tôi có thể tham gia các dự án lớn. Vui lòng liên hệ với tôi qua email:
-
-- tranthienthanh93@gmail.com - tranrot93@gmail.com
+- tranthienthanh93@gmail.com
+- tranrot93@gmail.com
 
     </td>
   </tr>
