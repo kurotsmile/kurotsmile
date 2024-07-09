@@ -1,5 +1,30 @@
 ### Hi there 👋 🥕🥕🥕🥕🥕🥕
 
+# Unity3D Application & Game Development Services
+
+[![English](https://img.shields.io/badge/language-English-blue)](README.md)
+
+## Overview
+I offer professional services in developing Unity3D applications and games across various platforms, as well as creating web apps and web games. I am capable of participating in large-scale projects and delivering high-quality results.
+
+### Contact
+- Email: tranthienthanh93@gmail.com
+- Email: tranrot93@gmail.com
+
+---
+
+# Dịch Vụ Phát Triển Ứng Dụng & Game Unity3D
+
+[![Tiếng Việt](https://img.shields.io/badge/ngôn_ngữ-Tiếng_Việt-blue)](README-vi.md)
+
+## Giới Thiệu
+Tôi cung cấp các dịch vụ chuyên nghiệp trong việc phát triển ứng dụng và game Unity3D trên nhiều nền tảng khác nhau, cũng như tạo các ứng dụng web và game web. Tôi có khả năng tham gia vào các dự án lớn và mang lại kết quả chất lượng cao.
+
+### Liên Hệ
+- Email: tranthienthanh93@gmail.com
+- Email: tranrot93@gmail.com
+
+
 I am developing applications that serve entertainment and work for everyone in the world
 This is my app store
 
