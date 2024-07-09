@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in developing high-quality applicatio
   <tr>
     <td>
 
-### 🇺🇸 English [![English](https://img.shields.io/badge/language-English-blue)](README.md)
+### 🇺🇸 English [![English](https://img.shields.io/badge/language-English-blue)](README-en.md)
 
 I offer development services for Unity3D applications and games across various platforms. Additionally, I can develop web apps and web games. I am available for participation in large projects. Feel free to contact me via email:
 - tranthienthanh93@gmail.com
