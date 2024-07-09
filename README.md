@@ -56,7 +56,7 @@ I have published a range of applications across several third-party stores. You 
 | Store                | URL                                                                 | Store            | URL                                                                                   |
 |----------------------|---------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------|
 | Amazon App Store     | [Amazon App Store](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ACarrot&search-type=ss) | Uptodown         | [Uptodown](https://en.uptodown.com/developer/carrot-app)                              |
-| Microsoft Store      | [Microsoft Store](https://apps.microsoft.com/store/search?hl=en-us&gl=us&publisher=Carrot%20App)          | AppGallery       | [AppGallery](https://appgallery.huawei.com/tab/appdetailCommon%7CC101963663%7Cautomore%7Cdoublecolumncardwithstar%7C903547) |
+| Microsoft Store      | [Microsoft Store](https://apps.microsoft.com/search/publisher?name=Carrot+App&hl=en-us&gl=US)          | AppGallery       | [AppGallery](https://appgallery.huawei.com/tab/appdetailCommon%7CC101963663%7Cautomore%7Cdoublecolumncardwithstar%7C903547) |
 | itch.io              | [itch.io](https://carrotstore.itch.io/)                            | simmer.io        | [simmer.io](https://simmer.io/@CarrotStore)                                           |
 
 
