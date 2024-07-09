@@ -33,7 +33,7 @@ This is my app store
 
 | Store         | URL                                      | Store         | URL                                    |
 |---------------|------------------------------------------|---------------|----------------------------------------|
-| Carrot Store  | [https://carrotstore.web.app](https://carrotstore.web.app) | Rabbit Store  | [https://kurotsmile.github.io/Rabbit](https://kurotsmile.github.io/Rabbit) |
+| `Carrot Store`  | [https://carrotstore.web.app](https://carrotstore.web.app) | Rabbit Store  | [https://kurotsmile.github.io/Rabbit](https://kurotsmile.github.io/Rabbit) |
 | WebPage Git   | [https://kurotsmile.github.io/Carrot](https://kurotsmile.github.io/Carrot) | Itch          | [https://carrotstore.itch.io](https://carrotstore.itch.io) |
 | Music Store   | [https://kurotsmile.github.io/Music-For-Life-Store](https://kurotsmile.github.io/Music-For-Life-Store) |Attendance|[https://attendance-orpin-five.vercel.app](https://attendance-orpin-five.vercel.app)|
 
