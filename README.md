@@ -6,7 +6,7 @@
   <tr>
     <td>
 
-### 🇺🇸 English
+[![English](https://img.shields.io/badge/language-English-blue)](README.md)
 
 I offer development services for Unity3D applications and games across various platforms. Additionally, I can develop web apps and web games. I am available for participation in large projects. Feel free to contact me via email:
 
@@ -16,7 +16,7 @@ I offer development services for Unity3D applications and games across various p
     </td>
     <td>
 
-### 🇻🇳 Tiếng Việt
+[![Tiếng Việt](https://img.shields.io/badge/ngôn_ngữ-Tiếng_Việt-blue)](README-vi.md)
 
 Tôi cung cấp dịch vụ phát triển các ứng dụng và game Unity3D trên nhiều nền tảng khác nhau. Ngoài ra, tôi có thể phát triển web app và web game. Tôi có thể tham gia các dự án lớn. Vui lòng liên hệ với tôi qua email:
 
