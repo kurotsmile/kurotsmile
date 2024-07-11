@@ -26,6 +26,8 @@ Tôi cung cấp dịch vụ phát triển các ứng dụng và game Unity3D tr�
   </tr>
 </table>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T210E258)
+
 ## My App Store
 
 I am developing applications that serve entertainment and work for everyone in the world
@@ -38,7 +40,7 @@ This is my app store
 | Music Store   | [https://kurotsmile.github.io/Music-For-Life-Store](https://kurotsmile.github.io/Music-For-Life-Store) |Attendance|[https://attendance-orpin-five.vercel.app](https://attendance-orpin-five.vercel.app)|
 
 
-`Donation:` Please support me with a portion of the costs to maintain the server and services for everyone [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T210E258)
+`Donation:` Please support me with a portion of the costs to maintain the server and services for everyone 
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/kurotsmile)
 
