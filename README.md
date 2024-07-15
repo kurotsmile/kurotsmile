@@ -95,16 +95,12 @@ Javascript, HTML, CSS, Unity3d, C++, C#, Java
 
 ## Contact Information
 
-| Platform  | Link |
-|-----------|------|
-| ![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png) Phone  | +840978651577 |
-| ![Mail](https://img.icons8.com/ios-filled/20/000000/email.png) Mail  | [tranthienthanh93@gmail.com](mailto:tranthienthanh93@gmail.com) |
-| ![Mail](https://img.icons8.com/ios-filled/20/000000/email.png) Mail  | [kurotsmile@gmail.com](mailto:kurotsmile@gmail.com) |
-| ![Facebook](https://img.icons8.com/ios-filled/20/000000/facebook-new.png) Facebook  | [https://www.facebook.com/kurotsmile](https://www.facebook.com/kurotsmile) |
-| ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) LinkedIn  | [https://www.linkedin.com/in/tranthienthanh](https://www.linkedin.com/in/tranthienthanh) |
-| ![TikTok](https://img.icons8.com/ios-filled/20/000000/tiktok.png) TikTok  | [https://www.tiktok.com/@kurotsmilethanh](https://www.tiktok.com/@kurotsmilethanh) |
-| ![YouTube](https://img.icons8.com/ios-filled/20/000000/youtube-play.png) YouTube  | [https://www.youtube.com/AuTri](https://www.youtube.com/AuTri) |
-| ![Pinterest](https://img.icons8.com/ios-filled/20/000000/pinterest.png) Pinterest  | [https://br.pinterest.com/tranrot93](https://br.pinterest.com/tranrot93) |
-| ![Twitter](https://img.icons8.com/ios-filled/20/000000/twitter.png) X  | [https://twitter.com/carrotstore1](https://twitter.com/carrotstore1) |
-| ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) GitHub  | [https://github.com/kurotsmile](https://github.com/kurotsmile) |
+| Platform  | Link | Platform  | Link |
+|-----------|------|-----------|------|
+| ![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png) Phone  | +840978651577 | ![Mail](https://img.icons8.com/ios-filled/20/000000/email.png) Mail  | [tranthienthanh93@gmail.com](mailto:tranthienthanh93@gmail.com) |
+| ![Mail](https://img.icons8.com/ios-filled/20/000000/email.png) Mail  | [kurotsmile@gmail.com](mailto:kurotsmile@gmail.com) | ![Facebook](https://img.icons8.com/ios-filled/20/000000/facebook-new.png) Facebook  | [https://www.facebook.com/kurotsmile](https://www.facebook.com/kurotsmile) |
+| ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) LinkedIn  | [https://www.linkedin.com/in/tranthienthanh](https://www.linkedin.com/in/tranthienthanh) | ![TikTok](https://img.icons8.com/ios-filled/20/000000/tiktok.png) TikTok  | [https://www.tiktok.com/@kurotsmilethanh](https://www.tiktok.com/@kurotsmilethanh) |
+| ![YouTube](https://img.icons8.com/ios-filled/20/000000/youtube-play.png) YouTube  | [https://www.youtube.com/AuTri](https://www.youtube.com/AuTri) | ![Pinterest](https://img.icons8.com/ios-filled/20/000000/pinterest.png) Pinterest  | [https://br.pinterest.com/tranrot93](https://br.pinterest.com/tranrot93) |
+| ![Twitter](https://img.icons8.com/ios-filled/20/000000/twitter.png) X  | [https://twitter.com/carrotstore1](https://twitter.com/carrotstore1) | ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) GitHub  | [https://github.com/kurotsmile](https://github.com/kurotsmile) |
+
 
