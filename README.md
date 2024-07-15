@@ -38,7 +38,7 @@ This is my app store
 | `Carrot Store`  | [https://carrotstore.web.app](https://carrotstore.web.app) | Rabbit Store  | [https://kurotsmile.github.io/Rabbit](https://kurotsmile.github.io/Rabbit) |
 | WebPage Git   | [https://kurotsmile.github.io/Carrot](https://kurotsmile.github.io/Carrot) | Itch          | [https://carrotstore.itch.io](https://carrotstore.itch.io) |
 | Music Store   | [https://kurotsmile.github.io/Music-For-Life-Store](https://kurotsmile.github.io/Music-For-Life-Store) |Attendance|[https://attendance-orpin-five.vercel.app](https://attendance-orpin-five.vercel.app)|
-| EBook Store   | [https://kurotsmile.github.io/Music-For-Life-Store](https://kurotsmile.github.io/Music-For-Life-Store) |Crab Radio|[https://music-for-life-drab.vercel.app](https://music-for-life-drab.vercel.app)|
+| EBook Store   | [https://kurotsmile.github.io/ERead](https://kurotsmile.github.io/ERead) |Crab Radio|[https://music-for-life-drab.vercel.app](https://music-for-life-drab.vercel.app)|
 
 
 `Donation:` Please support me with a portion of the costs to maintain the server and services for everyone 
