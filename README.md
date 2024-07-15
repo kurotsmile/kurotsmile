@@ -52,6 +52,22 @@ You can contact me via social networks and communication tools:
 [![Build Status](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://www.linkedin.com/in/tranthienthanh/) 
 [![Build Status](https://img.shields.io/badge/Telegram-2CA5E0)](call://+0978651577) 
 
+## Contact Me 
+
+| Social   | Linking |
+|------------|----------|
+| ![Phone](https://img.icons8.com/ios-filled/50/000000/phone.png) Phone  | +840978651577 |
+| ![Mail](https://img.icons8.com/ios-filled/50/000000/email.png) Mail  | [tranthienthanh93@gmail.com](mailto:tranthienthanh93@gmail.com) |
+| ![Mail](https://img.icons8.com/ios-filled/50/000000/email.png) Mail  | [kurotsmile@gmail.com](mailto:kurotsmile@gmail.com) |
+| ![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook-new.png) Facebook  | [https://www.facebook.com/kurotsmile](https://www.facebook.com/kurotsmile) |
+| ![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png) LinkedIn  | [https://www.linkedin.com/in/tranthienthanh](https://www.linkedin.com/in/tranthienthanh) |
+| ![TikTok](https://img.icons8.com/ios-filled/50/000000/tiktok.png) TikTok  | [https://www.tiktok.com/@kurotsmilethanh](https://www.tiktok.com/@kurotsmilethanh) |
+| ![YouTube](https://img.icons8.com/ios-filled/50/000000/youtube-play.png) YouTube  | [https://www.youtube.com/AuTri](https://www.youtube.com/AuTri) |
+| ![Pinterest](https://img.icons8.com/ios-filled/50/000000/pinterest.png) Pinterest  | [https://br.pinterest.com/tranrot93](https://br.pinterest.com/tranrot93) |
+| ![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png) X  | [https://twitter.com/carrotstore1](https://twitter.com/carrotstore1) |
+| ![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png) GitHub  | [https://github.com/kurotsmile](https://github.com/kurotsmile) |
+
+
 ## Published Applications on Various Stores
 
 I have published a range of applications across several third-party stores. You can find and download my apps from the following links:
