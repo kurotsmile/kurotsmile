@@ -1,5 +1,5 @@
 ### Hi there 👋 🥕🥕🥕🥕🥕🥕
-![Tran Thien Thanh](avatar_me.png)
+[<img alt="alt_text" width="100%" src="avatar_me.png" />](https://kurotsmile.blogspot.com/)
 
 ## Unity3D Application and Game Development Services / Nhận viết ứng dụng và game theo yêu cầu
 
