@@ -1,4 +1,5 @@
 ### Hi there 👋 🥕🥕🥕🥕🥕🥕
+![Tran Thien Thanh](avatar_me.png)
 
 ## Unity3D Application and Game Development Services / Nhận viết ứng dụng và game theo yêu cầu
 
